@@ -26,7 +26,7 @@ or in your `POM.xml`
 <dependencies>
    <dependency>
       <groupId>io.github.skylarkarms</groupId>
-      <artifactId>concur</artifactId>
+      <artifactId>stringutils</artifactId>
       <version>[latest version]</version>
    </dependency>
 </dependencies>
