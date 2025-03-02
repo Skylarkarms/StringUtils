@@ -56,5 +56,5 @@ repositories {
 
 dependencies {
     implementation 'io.github.skylarkarms:lambdas:1.0.4'
-    implementation 'io.github.skylarkarms:compactcollections:1.0.1'
+    implementation 'io.github.skylarkarms:compactcollections:1.0.2'
 }

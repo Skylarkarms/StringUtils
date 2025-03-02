@@ -65,7 +65,6 @@ public final class StringUtils {
         int lastSplittingPoint = points[lastPos - 1];
         if (!(lastSplittingPoint > original.length())) {
             for (int i = 0; i < length; i++) {
-
                 if (i != lastPos) {
                     int currentPoint = points[i];
                     result[i] = original.substring(lastPoint, currentPoint);

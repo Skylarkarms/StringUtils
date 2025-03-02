@@ -1,10 +1,10 @@
 # StringUtils
-[latest version] = `1.0.0`
+[latest version] = `1.0.1`
 
 Additional String utilities for the Java environment.
 
 [Internal Dependencies]
-    - [`io.github.skylarkarms:compactcollections:1.0.1`](https://github.com/Skylarkarms/CompactCollections)
+    - [`io.github.skylarkarms:compactcollections:1.0.2`](https://github.com/Skylarkarms/CompactCollections)
 
 [External Dependencies]
     - [`io.github.skylarkarms:lambdas:1.0.4`](https://github.com/Skylarkarms/Lambdas)
